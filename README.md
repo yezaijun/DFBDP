@@ -1,4 +1,4 @@
-# DFBDP
+# DeepFBSDEJ
 
 This repository accompanies the paper  
 “**Deep Forward-Backward Dynamic Programming Schemes for High-Dimensional Nonlinear Nonlocal PDEs and FBSDEs with Jumps**”.
